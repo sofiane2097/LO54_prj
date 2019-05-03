@@ -1,0 +1,7 @@
+fr\utbm\core\util\NewClass.class
+fr\utbm\entities\Client.class
+fr\utbm\entities\Course.class
+fr\utbm\entities\CourseSession.class
+fr\utbm\core\util\HibernateUtil.class
+fr\utbm\entities\Participe.class
+fr\utbm\entities\Location.class
